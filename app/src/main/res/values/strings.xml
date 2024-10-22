@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="add_task_button">Add Task</string>
+    <string name="task_name_hint">Task Name</string>
+    <string name="task_description_hint">Task Description</string>
+    <string name="task_end_date_hint">End Date (yyyy-MM-dd)</string>
+    <string name="task_end_time_hint">End Time (HH:mm)</string>
+    <string name="color_tag_hint">Select Color Tag</string>
+    <string name="task_end_date_label">End Date:</string>
+    <string name="task_end_time_label">End Time:</string>
+    <string name="edit_task_button">Edit Task</string>
+    <string name="delete_task_button">Delete Task</string>
+    <string name="no_tasks_message">No tasks available</string>
+    <string name="task_saved_message">Task saved successfully</string>
+    <string name="task_deleted_message">Task deleted successfully</string>
+    <string name="task_edit_message">Edit Task</string>
+    <string name="task_add_success">Task added successfully</string>
+</resources>

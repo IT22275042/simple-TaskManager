@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_color">#282ad8</color> <!-- Button color -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color> <!-- Red -->
+    <color name="green">#00FF00</color> <!-- Green -->
+    <color name="blue">#0000FF</color> <!-- Blue -->
+    <color name="yellow">#FFFF00</color> <!-- Yellow -->
+    <color name="Orange">#FFA500</color> <!-- Orange -->
+    <color name="purple">#800080</color> <!-- Purple -->
+</resources>
